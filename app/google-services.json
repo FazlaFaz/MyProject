@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762655685255",
+    "firebase_url": "https://chatandhome.firebaseio.com",
+    "project_id": "chatandhome",
+    "storage_bucket": "chatandhome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762655685255:android:8c4363d2cae555bb019622",
+        "android_client_info": {
+          "package_name": "com.example.chatandhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762655685255-dvagjhv4nfj0lajjglc4p1q7vuulcbac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatandhome",
+            "certificate_hash": "15625a5bb6ef16040c03b3d80f739707f078d6ca"
+          }
+        },
+        {
+          "client_id": "762655685255-6mskl2duqpcnse6q312cdfm6nts2uek9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrXFi8ZT4b8cRUGc9v-9h56ZzRskaLWFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762655685255-6mskl2duqpcnse6q312cdfm6nts2uek9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
